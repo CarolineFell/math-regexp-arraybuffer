@@ -1,5 +1,5 @@
 import './css/style.css';
 
-import './js/app';
-
-// TODO: write your code in app.js
+import './js/math.Character';
+import './js/math.Daemon';
+import './js/math.Magician';

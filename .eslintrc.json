@@ -6,10 +6,14 @@
      "jest": true
   },
   "rules": {
+    "linebreak-style": 0,
+    "indent": [1,2],
+    "eol-last": 0,
     "no-restricted-syntax": [
       "error",
       "LabeledStatement",
       "WithStatement"
-    ]
+    ],
+    "no-tabs": 0
   }
 }
